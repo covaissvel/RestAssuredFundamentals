@@ -1,3 +1,3 @@
-# RestAssuredFundamentals - Training Course code
+# RestAssuredFundamentals
 
-This is all of the code used in my Udemy video series - REST Assured Fundamentals
+Contains RESTAPI tests using various classes in RestAssured library
